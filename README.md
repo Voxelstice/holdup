@@ -1,7 +1,5 @@
-# Welcome to the funny
-i am bored.
+# Welcome to https://voxelstice.github.io 's source code
+If you see any .jpg folders and get confused, they were just primarily from my messing around.
 
-# current sites:
-https://voxelstice.github.io/holdup.jpg
-
-https://voxelstice.github.io/test.jpg
+# what is this site even for
+files and stuff

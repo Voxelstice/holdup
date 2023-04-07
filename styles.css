@@ -13,3 +13,10 @@ h1 {
     color: white;
     font-size: 45px;
 }
+
+a:link, a:visited {
+    color: rgb(0, 127, 255);
+}
+a:hover {
+    color: rgb(0, 192, 255);
+}

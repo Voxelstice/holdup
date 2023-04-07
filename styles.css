@@ -1,0 +1,15 @@
+* {
+    font-family: monospace;
+}
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+h1 {
+    color: white;
+    font-size: 45px;
+}
